@@ -25,19 +25,19 @@
 ![Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🚀 Featured Projects  
-### 🖥️ [EPManage](https://github.com/your-epmanage-repo)  
+### 🤖 [SensAI](https://github.com/TienNguyen2210/sensai)  
+A full-stack AI Career Coach that delivers comprehensive industry insights and features an AI-powered resume builder, an intelligent cover letter generator that tailors applications, a mock interview module with role-specific questions, utilizing **NextJS**, **Tailwind**, **OpenAI**, **PostgreSQL**, and **Inngest**.
+
+### 🖥️ [EPManage](https://github.com/TienNguyen2210/project-management)   
 A full-stack project management web app using **Next.js**, **Node.js**, and **PostgreSQL**, deployed on **AWS** with **Cognito** authentication and responsive UI via **Tailwind CSS**.  
 
-### 🛒 [QuickShop](https://github.com/your-quickshop-repo)  
-A mobile app for seamless grocery shopping using **React Native** with QR scanning, real-time inventory updates, and a robust **Node.js** backend for efficiency.  
-
-### ⚡ [EV Charging Station Finder](https://github.com/your-evfinder-repo)  
+### ⚡ [EVFinder](https://github.com/TienNguyen2210/EV-Charging-Station-App)  
 A React Native app integrated with **Google Maps API** and **Firebase**, designed to help EV owners locate charging stations effortlessly.  
 
 ![Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 📈 Stats & Highlights  
-- 🌟 2+ years of coding experience across diverse projects  
+- 🌟 1-2 years of coding experience across diverse projects  
 - 🌍 Built solutions impacting users in **e-commerce**, **sustainability**, and **transportation** domains  
 - 🏆 Proven expertise in both **front-end** and **back-end** development  
 
@@ -51,7 +51,6 @@ I'm currently seeking a **full-time software engineering role** where I can appl
 ## 📫 Let's Connect!  
 - 📧 **Email**: nguyentienmanh2003@gmail.com  
 - 🔗 **LinkedIn**: [linkedin.com/in/tienznguyen](https://linkedin.com/in/tienznguyen)  
-- 🌐 **Portfolio**: [your-portfolio-link.com](https://your-portfolio-link.com)  
 
 ![Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
