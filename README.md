@@ -51,7 +51,7 @@ I'm currently seeking a **full-time software engineering role** where I can appl
 
 ## 📫 Let's Connect!  
 - 📧 **Email**: nguyentienmanh2003@gmail.com  
-- 🔗 **LinkedIn**: [linkedin.com/in/tienznguyen](https://linkedin.com/in/tienznguyen)  
+- 🔗 **Portfolio**: [https://manh-porfolio.vercel.app/](https://manh-porfolio.vercel.app/)  
 
 ![Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
